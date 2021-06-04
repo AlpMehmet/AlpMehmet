@@ -32,6 +32,9 @@
 [<img align="left" alt="Git" width="26px" src="https://github.com/github/explore/blob/main/topics/git/git.png" />][linkedin]
 [<img align="left" alt="Terminal" width="26px" src="https://github.com/github/explore/blob/main/topics/terminal/terminal.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/github/explore/blob/main/topics/github/github.png" />][linkedin]
+
+<br />
+
 [<img align="left" alt="Ajax" width="26px" src="https://github.com/github/explore/blob/main/topics/ajax/ajax.png" />][linkedin]
 [<img align="left" alt="Android" width="26px" src="https://github.com/github/explore/blob/main/topics/android/android.png" />][linkedin]
 [<img align="left" alt="DotNetCoreApi" width="26px" src="https://github.com/github/explore/blob/main/topics/dotnet/dotnet.png" />][linkedin]
@@ -41,17 +44,23 @@
 [<img align="left" alt="C#" width="26px" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png" />][linkedin]
 [<img align="left" alt="OpenCV" width="26px" src="https://github.com/github/explore/blob/main/topics/opencv/opencv.png" />][linkedin]
 [<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png" />][linkedin]
-<br />
-
 [<img align="left" alt="Raspberry-Pi" width="26px" src="https://github.com/github/explore/blob/main/topics/raspberry-pi/raspberry-pi.png" />][linkedin]
 [<img align="left" alt="Socket-io" width="26px" src="https://github.com/github/explore/blob/main/topics/socket-io/socket-io.png" />][linkedin]
 [<img align="left" alt="Unity" width="26px" src="https://github.com/github/explore/blob/main/topics/unity/unity.png" />][linkedin]
+
+<br />
+
 
 
 <br />
 <br />
 
 ---
+
+
+
+
+
 
 <details>
   <summary>:zap: Most Used Languages</summary>
@@ -73,7 +82,7 @@
 </a>
 -->
 <div align="center">
-
+  
 ### Show some ❤️ by starring some of the repositories!
 
 

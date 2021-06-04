@@ -66,16 +66,12 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <br />
-  
         <a href="https://github.com/AlpMehmet">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpMehmet&theme=light&hide_langs_below=1" />
         </a>
 </details>
 <details>
-  <summary>:zap: Alp's github stats</summary>
-  <br />
-  
+  <summary>:zap: Alp's github stats</summary>  
       <a href="https://github.com/AlpMehmet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlpMehmet&show_icons=true&theme=light&line_height=27" alt="Alp's github stats"/>
 </a>

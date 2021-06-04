@@ -33,13 +33,15 @@
 [<img align="left" alt="Terminal" width="26px" src="https://github.com/github/explore/blob/main/topics/terminal/terminal.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/github/explore/blob/main/topics/github/github.png" />][linkedin]
 
-<br />
+
 
 [<img align="left" alt="Ajax" width="26px" src="https://github.com/github/explore/blob/main/topics/ajax/ajax.png" />][linkedin]
 [<img align="left" alt="Android" width="26px" src="https://github.com/github/explore/blob/main/topics/android/android.png" />][linkedin]
 [<img align="left" alt="DotNetCoreApi" width="26px" src="https://github.com/github/explore/blob/main/topics/dotnet/dotnet.png" />][linkedin]
 [<img align="left" alt="Arduino" width="26px" src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png" />][linkedin]
 [<img align="left" alt="Aspnet" width="26px" src="https://github.com/github/explore/blob/main/topics/aspnet/aspnet.png" />][linkedin]
+<br />
+
 [<img align="left" alt="Bootstrap" width="26px" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png" />][linkedin]
 [<img align="left" alt="C#" width="26px" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png" />][linkedin]
 [<img align="left" alt="OpenCV" width="26px" src="https://github.com/github/explore/blob/main/topics/opencv/opencv.png" />][linkedin]

@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning more about TypeScript.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alp-mehmet-öztürk-6b6872195/)
-- ⚡ Fun fact: I spend almost 3 hours reading book and playing game everyday.
 
 ### Connect with me:
 
@@ -85,7 +84,6 @@
 -->
 <div align="center">
   
-### Show some ❤️ by starring some of the repositories!
 
 
 

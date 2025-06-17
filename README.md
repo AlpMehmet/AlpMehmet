@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Meet with more people and improve myself in swift.
+- 🥅 2025 Goals: Meet with more people and improve myself in everything.
 - 🌱 I’m currently learning more about Swift.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alp-mehmet-öztürk-6b6872195/)
